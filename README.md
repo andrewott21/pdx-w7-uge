@@ -1,3 +1,18 @@
+1. 9
+2. Getting a feel for the command prompt, Unix, Git, learning about fish and hombrew.
+3. Improve more on when adding files to git to make sure to commit them so my directories always stay cleaned up.
+
+
+
+
+
+
+
+
+
+
+
+
 Unix & Git for Everyone (Portland, August 22, 2015)
 --------------------------------------------------
 
